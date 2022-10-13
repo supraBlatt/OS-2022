@@ -1,0 +1,1 @@
+ex21.c is bugged. If both have spaces but different amounts of spaces (or space characters) it skips both without accounting for the different amount of spaces.
